@@ -94,32 +94,32 @@ flutter run
 
 ##### 1. QuickActions, Login & Register
 
-![ QuickActions, Login & Register]<img width="1920" height="1080" alt="1" src="https://github.com/user-attachments/assets/7020f412-73e0-44f6-9ca9-8082a857aa15" />
+<img width="1920" height="1080" alt="1" src="https://github.com/user-attachments/assets/7020f412-73e0-44f6-9ca9-8082a857aa15" />
 
 
 ##### 2. Home & AddTodo
 
-![Home & AddTodo]<img width="1920" height="1080" alt="2" src="https://github.com/user-attachments/assets/a3ad5906-f431-400b-8091-cde23dff970a" />
+<img width="1920" height="1080" alt="2" src="https://github.com/user-attachments/assets/a3ad5906-f431-400b-8091-cde23dff970a" />
 
 
 ##### 3. Category, Todolist & Translation
 
-![ Category, Todolist & Translation]<img width="1920" height="1080" alt="3" src="https://github.com/user-attachments/assets/b75d54d0-e022-46ac-8331-a2c0e7976025" />
+<img width="1920" height="1080" alt="3" src="https://github.com/user-attachments/assets/b75d54d0-e022-46ac-8331-a2c0e7976025" />
 
 
 ##### 4. Bluetooth Screens
 
-![Bluetooth Screens]<img width="1920" height="1080" alt="4" src="https://github.com/user-attachments/assets/d3b0655f-0521-41f2-b8fe-e3c2534acfc1" />
+<img width="1920" height="1080" alt="4" src="https://github.com/user-attachments/assets/d3b0655f-0521-41f2-b8fe-e3c2534acfc1" />
 
 
 ##### 5. Calculator, Currency Converter & Profile
 
-![Calculator, Currency Converter & Profile <img width="1920" height="1080" alt="5" src="https://github.com/user-attachments/assets/5e6445a7-5910-43cd-b806-3ce1373b7eda" />
+<img width="1920" height="1080" alt="5" src="https://github.com/user-attachments/assets/5e6445a7-5910-43cd-b806-3ce1373b7eda" />
 
 
 ##### 6. Emergency SOS Page
 
-![Emergency SOS Page]<img width="1920" height="1080" alt="6" src="https://github.com/user-attachments/assets/164514b7-d268-4444-b328-ad92e1c396c7" />
+<img width="1920" height="1080" alt="6" src="https://github.com/user-attachments/assets/164514b7-d268-4444-b328-ad92e1c396c7" />
 
 
 ## Contributing
